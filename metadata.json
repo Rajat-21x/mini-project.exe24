@@ -1,0 +1,6 @@
+{
+  "name": "Coding Battle Arena",
+  "description": "Online competitive programming and real-time 1v1 code battle platform with automated test runner, ranked match leaderboards, and battle history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
